@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MisFragmentosKotlin</string>
+    <string name="fuego">Fuego</string>
+    <string name="agua">Agua</string>
+    <string name="tierra">Tierra</string>
+    <string name="aire">Aire</string>
+</resources>
